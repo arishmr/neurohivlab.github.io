@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: Principal Investigator: <a href="(https://arishmrl.com/)">Dr Arish Mudra Rakshasa-Loots</a>
+subtitle: Principal Investigator <a href="(https://arishmrl.com/)">Dr Arish Mudra Rakshasa-Loots</a>
 
  profile:
    align: right
@@ -27,8 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+The NeuroHIV Lab focuses on understanding the role of physiological processes (such as immune or metabolic dysfunction) in the risk for mental health conditions among people with HIV, especially those in eastern and southern Africa. We are based in the Division of Psychiatry within the [Institute for Neuroscience & Cardiovascular Research (INCR)](https://medicine-vet-medicine.ed.ac.uk/institute-for-neuroscience-and-cardiovascular-research) at the University of Edinburgh in the UK.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Work in our lab involves quantitative research methods including psychiatric assessments, digital phenotyping, biomarker measurement, and epidemiological and statistical techniques. Our research is driven by principles of equity and inclusion and meaningful involvement of people with relevant lived experience. We work collaboratively with colleagues in many countries, and it is particularly important to us that our research includes, and benefits, people in the Global South.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Our major research interests include:
+1. Why do people with HIV experience mental health conditions at higher rates than the general population?
+2. How can we better predict, detect, and treat mental health conditions using markers of biological processes such as inflammation or metabolism?
+3. How can we better understand the co-occurrence of mental and physical health conditions using big datasets?
+4. How can we develop tools to measure mental health symptoms that are tailored to the culture and language of the relevant community?
