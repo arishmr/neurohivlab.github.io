@@ -6,7 +6,7 @@ subtitle: Principal Investigator <a href="(https://arishmrl.com/)">Dr Arish Mudr
 
 profile:
   align: right
-  image: Lab.jpg
+  image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
 #  more_info: >
 #    <p>555 your office number</p>
