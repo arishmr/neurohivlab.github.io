@@ -11,6 +11,6 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: /profile_pics/ArishMRL.jpg
-    content: about_arish.md
+    content: /profiles/arish.md
     image_circular: true # crops the image to make it circular
 ---
