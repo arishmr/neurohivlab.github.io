@@ -4,7 +4,7 @@ title: home
 permalink: /
 subtitle: Principal Investigator <a href="(https://arishmrl.com/)">Dr Arish Mudra Rakshasa-Loots</a>
 
- profile:
+ profile: 
    align: right
    image: Lab.jpg
    image_circular: true # crops the image to make it circular
