@@ -21,10 +21,6 @@ announcements:
   scrollable: false # adds a vertical scroll bar if there are more than 3 news items
   limit: 3 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: false
-  scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
 The NeuroHIV Lab focuses on understanding the role of physiological processes (such as immune or metabolic dysfunction) in the risk for mental health conditions among people with HIV, especially those in eastern and southern Africa. We are based in the Division of Psychiatry within the [Institute for Neuroscience & Cardiovascular Research (INCR)](https://medicine-vet-medicine.ed.ac.uk/institute-for-neuroscience-and-cardiovascular-research) at the University of Edinburgh in the UK.
