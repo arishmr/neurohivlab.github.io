@@ -4,10 +4,10 @@ title: home
 permalink: /
 subtitle: University of Edinburgh, UK
 
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+# profile:
+#  align: right
+#  image: prof_pic.jpg
+#  image_circular: true # crops the image to make it circular
 #  more_info: >
 #    <p>555 your office number</p>
 #    <p>123 your address street</p>
@@ -32,3 +32,5 @@ Work in our lab involves quantitative research methods including psychiatric ass
 2. How can we better predict, detect, and treat mental health conditions using markers of biological processes such as inflammation or metabolism?
 3. How can we better understand the co-occurrence of mental and physical health conditions using big datasets?
 4. How can we develop tools to measure mental health symptoms that are tailored to the culture and language of the relevant community?
+
+<img src="{{ '/assets/img/Schematic.jpg' | relative_url }}" align="left" width="40%" />
