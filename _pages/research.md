@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: research
-description: work in the NeuroHIV Lab spans four major themes":"
+description: 
 nav: true
 nav_order: 2
 images:
