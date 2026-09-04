@@ -1,2 +1,0 @@
-### severe mental illness in people with HIV
-We are interested in the comorbidity of HIV and severe mental health conditions such as schizophrenia and bipolar disorder, which remains an underexplored area. Our research aims to generate reliable evidence from diverse settings to  demonstrate the scale of the problem - that is, precisely **how common are severe mental health conditions in people with HIV** compared to the general population? This work will then inform mechanistic and interventional studies to address this comorbidity.
