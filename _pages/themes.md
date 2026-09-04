@@ -5,6 +5,8 @@ title: themes
 description: 
 nav: true
 nav_order: 2
+images:
+  lightbox: true
 ---
 
 ### mechanisms of depression in people with HIV
