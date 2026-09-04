@@ -1,2 +1,2 @@
-### Culturally-grounded neuropsychiatric screening
+### culturally-grounded neuropsychiatric screening
 We are interested in the development of mental health screening tools that are **culturally grounded and empirically validated**. Our work in this area has so far focused on developing an [isiXhosa version of the PHQ-9](https://edin.ac/isixhosa-phq9) to enable screening for depressive symptoms in community, clinic, and research settings in South Africa.
