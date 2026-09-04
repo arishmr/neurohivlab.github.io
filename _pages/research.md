@@ -13,18 +13,18 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: HIV.png
-    content: /themes/depression.md
+    content: /themes/01-depression.md
     image_circular: true # crops the image to make it circular
   - align: left
     image: BigData.png
-    content: /themes/hivpsych.md
+    content: /themes/02-hivpsych.md
     image_circular: true # crops the image to make it circular
   - align: right
     image: Population.png
-    content: /themes/cohorts.md
+    content: /themes/03-cohorts.md
     image_circular: true # crops the image to make it circular
   - align: left
     image: Questionnaires.png
-    content: /themes/screeningtools.md
+    content: /themes/04-screeningtools.md
     image_circular: true # crops the image to make it circular
 ---
