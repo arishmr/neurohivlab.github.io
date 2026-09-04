@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: Principal Investigator <a href="(https://arishmrl.com/)">Dr Arish Mudra Rakshasa-Loots</a>
+subtitle: Principal Investigator <a href="https://arishmrl.com/">Dr Arish Mudra Rakshasa-Loots</a>
 
 profile:
   align: right
@@ -27,7 +27,7 @@ The NeuroHIV Lab focuses on understanding the role of physiological processes (s
 
 Work in our lab involves quantitative research methods including psychiatric assessments, digital phenotyping, biomarker measurement, and epidemiological and statistical techniques. Our research is driven by principles of equity and inclusion and meaningful involvement of people with relevant lived experience. We work collaboratively with colleagues in many countries, and it is particularly important to us that our research includes, and benefits, people in the Global South.
 
-Our major research interests include:
+**Major research interests:**
 1. Why do people with HIV experience mental health conditions at higher rates than the general population?
 2. How can we better predict, detect, and treat mental health conditions using markers of biological processes such as inflammation or metabolism?
 3. How can we better understand the co-occurrence of mental and physical health conditions using big datasets?
