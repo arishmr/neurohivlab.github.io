@@ -29,7 +29,8 @@ Work in our lab involves quantitative research methods including psychiatric ass
 
 ---
 
-<img src="{{ '/assets/img/Schematic.jpg' | relative_url }}" align="left" width="35%" />
+<img src="{{ '/assets/img/Schematic.jpg' | relative_url }}" align="left" width="35%" style="margin-right:10px" />
+
 **Major research interests:**
 1. Why do people with HIV experience mental health conditions at higher rates than the general population?
 2. How can we better predict, detect, and treat mental health conditions using markers of biological processes such as inflammation or metabolism?
