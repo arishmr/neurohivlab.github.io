@@ -5,6 +5,8 @@ title: research
 # description: 
 nav: true
 nav_order: 2
+images:
+  spotlight: true
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
