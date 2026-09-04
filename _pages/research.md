@@ -10,19 +10,19 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    # image: /profile_pics/ArishMRL.jpg
+    image: HIV.png
     content: /themes/depression.md
     image_circular: true # crops the image to make it circular
   - align: left
-    # image: /profile_pics/ArishMRL.jpg
+    image: BigData.png
     content: /themes/hivpsych.md
     image_circular: true # crops the image to make it circular
   - align: right
-    # image: /profile_pics/ArishMRL.jpg
+    image: Population.png
     content: /themes/cohorts.md
     image_circular: true # crops the image to make it circular
   - align: left
-    # image: /profile_pics/ArishMRL.jpg
+    image: Questionnaires.png
     content: /themes/screeningtools.md
     image_circular: true # crops the image to make it circular
 ---
