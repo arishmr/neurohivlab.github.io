@@ -29,7 +29,7 @@ Work in our lab involves quantitative research methods including psychiatric ass
 
 ---
 
-<img src="{{ '/assets/img/Schematic.jpg' | relative_url }}" align="left" width="35%" style="margin-right:100px" />
+<img src="{{ '/assets/img/Schematic.jpg' | relative_url }}" align="left" width="35%" style="margin-right:25px" />
 
 **Major research interests:**
 1. Why do people with HIV experience mental health conditions at higher rates than the general population?
