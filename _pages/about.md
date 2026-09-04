@@ -33,4 +33,4 @@ Work in our lab involves quantitative research methods including psychiatric ass
 3. How can we better understand the co-occurrence of mental and physical health conditions using big datasets?
 4. How can we develop tools to measure mental health symptoms that are tailored to the culture and language of the relevant community?
 
-<img src="{{ '/assets/img/Schematic.jpg' | relative_url }}" align="left" width="40%" />
+<img src="{{ '/assets/img/Schematic.jpg' | relative_url }}" align="left" width="50%" />
