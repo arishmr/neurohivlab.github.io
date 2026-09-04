@@ -1,2 +1,2 @@
-### Population-level insights on the brain-body interface
+### Big-data insights on the brain-body interface
 We work with data from large cohorts, including [Our Future Health](https://ourfuturehealth.org.uk/) (UK) and [All Of Us](https://researchallofus.org/) (USA), to explore patterns and disparities in mental health conditions at a population scale. We are particularly interested in using these datasets to uncover the **links between chronic physical health conditions and mental health outcomes**.
