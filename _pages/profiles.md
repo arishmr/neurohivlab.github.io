@@ -13,4 +13,8 @@ profiles:
     image: /profile_pics/ArishMRL.jpg
     content: /profiles/arish.md
     image_circular: true # crops the image to make it circular
+  - align: left
+    image: /profile_pics/Christina_Steyn.jpg
+    content: /profiles/christina_steyn.md
+    image_circular: true # crops the image to make it circular
 ---
