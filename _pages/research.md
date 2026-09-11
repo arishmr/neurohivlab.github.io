@@ -16,14 +16,14 @@ Our main area of interest is determining **what drives the higher rates of depre
 
 ---
 
-<img src="{{ '/assets/img/research_themes/BigData.png' | relative_url }}" align="left" width="10%" style="margin: 10px" />
+<img src="{{ '/assets/img/research_themes/Population.png' | relative_url }}" align="left" width="10%" style="margin: 10px" />
 
 ### severe mental illness in people with HIV
 We are interested in the comorbidity of HIV and severe mental health conditions such as schizophrenia and bipolar disorder, which remains an underexplored area. Our research aims to generate reliable evidence from diverse settings to  demonstrate the scale of the problem - that is, precisely **how common are severe mental health conditions in people with HIV** compared to the general population? This work will then inform mechanistic and interventional studies to address this comorbidity.
 
 ---
 
-<img src="{{ '/assets/img/research_themes/Population.png' | relative_url }}" align="right" width="15%" style="margin: 10px" />
+<img src="{{ '/assets/img/research_themes/BigData.png' | relative_url }}" align="right" width="15%" style="margin: 10px" />
 
 ### mental health insights from big data
 We work with data from large cohorts, including [Our Future Health](https://ourfuturehealth.org.uk/) (UK) and [All Of Us](https://researchallofus.org/) (USA), to explore patterns and disparities in mental health conditions at a population scale. We are particularly interested in using these datasets to uncover the **links between chronic physical health conditions and mental health outcomes**.
