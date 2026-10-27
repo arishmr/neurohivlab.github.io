@@ -11,3 +11,5 @@ We welcome collaborations in any areas related to the research themes outlined o
 We are also open to inquiries about hosting PhD, Masters, or undergraduate dissertation research.
 
 The best way to get in touch is via email: Arish.MRL@ed.ac.uk
+
+Our lab logo was designed by the inimitable Aneisha Shrivastava. Find her other work and get in touch with her [here](https://www.aneishasrivastava.in/).
