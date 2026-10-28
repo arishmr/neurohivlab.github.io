@@ -4,10 +4,10 @@ title: home
 permalink: /
 subtitle: University of Edinburgh, UK
 
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+# profile:
+#  align: right
+#  image: prof_pic.jpg
+#  image_circular: false # crops the image to make it circular
 #  more_info: >
 #    <p>555 your office number</p>
 #    <p>123 your address street</p>
@@ -22,6 +22,8 @@ announcements:
   limit: # leave blank to include all the news in the `_news` folder
 
 ---
+
+<img src="{{ '/assets/img/prof_pic.jpg' | relative_url }}" align="right" width="35%" style="margin-right:25px" />
 
 The NeuroHIV Lab focuses on understanding the role of physiological processes (such as immune or metabolic dysfunction) in the risk for mental health conditions among people with HIV, especially those in eastern and southern Africa. We are based in the Division of Psychiatry within the [Institute for Neuroscience & Cardiovascular Research (INCR)](https://medicine-vet-medicine.ed.ac.uk/institute-for-neuroscience-and-cardiovascular-research).
 
